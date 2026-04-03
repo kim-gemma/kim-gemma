@@ -1,4 +1,4 @@
-# 안녕하세요, 백엔드 중심 풀스택 개발자를 지향하는 OOO입니다 👋
+# 안녕하세요, 백엔드 중심 풀스택 개발자를 지향하는 김현능입니다 👋
 
 > **사용자 경험을 개선하는 서비스 구조를 설계하고,**
 > **AI / API / 실시간 처리 / 커뮤니티 기능을 실제 프로젝트로 구현하는 개발자**입니다.
@@ -95,7 +95,7 @@
 
 ## Contact
 
-- GitHub: [y[our-github-link](https://github.com/kim-gemma)]
+- GitHub: (https://github.com/kim-gemma)
 - Email: ayuhyun@naver.com
-- Blog / Portfolio: [your-link](https://your-link.com)
+- Blog / Portfolio: (https://github.com/kim-gemma)
 
