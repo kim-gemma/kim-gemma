@@ -97,5 +97,5 @@
 
 - GitHub: (https://github.com/kim-gemma)
 - Email: ayuhyun@naver.com
-- Blog / Portfolio: (https://github.com/kim-gemma)
+- Blog / Portfolio: (https://github.com/kim-gemma/repo-root/tree/main/assets)
 
