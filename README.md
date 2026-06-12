@@ -1,101 +1,136 @@
-# 안녕하세요, 백엔드 중심 풀스택 개발자를 지향하는 김현능입니다 👋
+# 안녕하세요, Frontend Engineer 김현능입니다 👋
 
-> **사용자 경험을 개선하는 서비스 구조를 설계하고,**
-> **AI / API / 실시간 처리 / 커뮤니티 기능을 실제 프로젝트로 구현하는 개발자**입니다.
+React Native 기반 엔터프라이즈 모바일 서비스 개발 경험을 바탕으로, 사용자 경험을 고려한 안정적인 서비스 구현을 지향합니다.
+
+복잡한 상태 관리, Native 기능 연동, REST API 및 실시간 데이터 처리 경험을 보유하고 있으며, Spring Boot 기반 백엔드와 AI 기능 연동까지 확장하며 Full Stack 역량을 넓혀가고 있습니다.
 
 ---
 
 ## About Me
 
-- **백엔드 중심**으로 서비스 구조와 데이터 흐름을 설계하는 것을 좋아합니다.
-- 단순 기능 구현보다 **왜 이런 아키텍처를 선택했는지 설명 가능한 개발**을 지향합니다.
-- AI, 외부 API, 실시간 통신 등 **서비스형 프로젝트에서 필요한 기술 요소들을 통합**하는 데 관심이 많습니다.
+사용자 관점에서 안정적이고 유지보수 가능한 서비스를 만드는 것을 중요하게 생각합니다.
 
-### 관심 있는 키워드
-- Spring Boot / Java
-- React Native / Web Frontend
-- AI Integration
-- WebSocket / Real-time
-- DB 설계 / 서비스 아키텍처
-- 유지보수 가능한 구조 설계
+단순히 화면을 구현하는 데 그치지 않고, **왜 이러한 구조와 기술을 선택했는지 설명할 수 있는 개발자**를 지향합니다.
+
+React Native 기반 모바일 개발 경험을 중심으로, API 설계, AI 연동, 실시간 데이터 처리 등 서비스 전반에 대한 이해를 높여가고 있습니다.
+
+---
+
+## Interested Keywords
+
+* React Native / Mobile Frontend
+* TypeScript / JavaScript
+* Component Architecture & Custom Hook
+* State Management (Context, Redux, Zustand)
+* REST API / WebSocket Real-time Communication
+* Spring Boot Backend Integration
+* AI Integration & LLM API
+* Service Architecture
 
 ---
 
 ## Tech Stack
 
-### Backend
-- Java
-- Spring Boot
-- Spring Data JPA
-- Servlet / JSP
-- REST API
-- WebSocket
-
 ### Frontend
-- React Native
-- TypeScript
-- JavaScript
-- jQuery
-- Bootstrap
+
+* React Native
+* React
+* TypeScript
+* JavaScript
+* HTML/CSS
+
+### Backend
+
+* Java
+* Spring Boot
+* Spring Data JPA
+* REST API
+* WebSocket
 
 ### Database / Infra
-- MySQL
-- PostgreSQL
-- Redis
-- AWS EC2 / RDS
-- Docker
-- GitHub Actions
+
+* MySQL
+* PostgreSQL
+* Redis
+* AWS EC2 / RDS
+* Docker
+* Git / GitHub
 
 ### AI / API
-- LLM API 연동
-- Google Gemini API
-- TMDB API
-- Prompt Engineering
+
+* OpenAI API
+* Google Gemini API
+* TMDB API
+* Prompt Engineering
 
 ---
 
 ## Projects
 
-### 1. [AI Reply Recommendation System](./projects/ai-reply-recommendation-system/README.md)
-**Spring Boot + React Native 기반의 실시간 AI 답장 추천 시스템**
+### 1. Enterprise Mobile Service (OneChamber / ONEFFICE)
 
-- DB 후보 기반 AI 통제 아키텍처
-- WebSocket streaming 기반 실시간 응답 처리
-- “DB 후보 조회 → AI 선택 → DB 저장” 구조 설계
-- 풀스택 구조로 모바일/백엔드/AI 연동 구현
+React Native 기반 엔터프라이즈 모바일 서비스 개발 및 운영
 
-**핵심 키워드:**  
-`Spring Boot` `React Native` `WebSocket` `AI Control Architecture` `Fullstack`
+* 대용량 문서 관리 및 파일 처리 기능 구현
+* WebView-Native Bridge 설계 및 Android/iOS 플랫폼 대응
+* Context, Redux 기반 복잡한 상태 관리 구조 설계
+* REST API 연동 및 비동기 데이터 흐름 개선
+
+**Keywords**
+React Native | TypeScript | Native Module | REST API | State Management
 
 ---
 
-### 2. [WhatFlix](./projects/whatflix/README.md)
-**AI 추천 + 실시간 영화 데이터 + 커뮤니티를 결합한 종합 영화 플랫폼**
+### 2. ONE AI Mobile
 
-- Gemini AI 기반 자연어 영화 추천
-- TMDB API 기반 실시간 영화 데이터 제공
-- 리뷰/댓글/좋아요/위시리스트 등 커뮤니티 기능 구현
-- JSP/Servlet 기반 MVC 구조 설계
+AI 기반 문서 분석 및 음성 인터페이스 모바일 서비스
 
-**핵심 키워드:**  
-`Java` `JSP/Servlet` `Gemini API` `TMDB API` `MVC` `Community Platform`
+* AI Chat UI 및 실시간 응답 인터페이스 구현
+* STT 음성 인식 기능 연동
+* WebSocket 기반 실시간 데이터 처리
+* Custom Hook 기반 UI와 비즈니스 로직 분리
+
+**Keywords**
+React Native | WebSocket | AI Integration | STT | Custom Hook
+
+---
+
+### 3. WhatFlix
+
+영화 정보와 커뮤니티 기능을 결합한 Full Stack 프로젝트
+
+* React 기반 사용자 인터페이스 구현
+* Spring Boot REST API 연동 및 데이터 통신
+* TMDB API 및 Gemini AI 기반 영화 추천 기능 구현
+* 커뮤니티 기능(리뷰, 댓글, 좋아요 등) 개발
+
+**Keywords**
+React | Spring Boot | REST API | MySQL | Gemini API | Community
 
 ---
 
 ## What I Focus On
 
-제가 프로젝트를 만들 때 중요하게 보는 기준은 다음과 같습니다.
+제가 개발할 때 중요하게 생각하는 기준입니다.
 
-- **서비스 흐름이 자연스러운가**
-- **기술 선택에 이유가 있는가**
-- **확장 가능한 구조인가**
-- **AI/API를 붙이는 데서 끝나지 않고, 서비스 품질로 연결되는가**
+* 사용자 경험을 고려한 UI/UX 구현
+* 유지보수 가능한 컴포넌트 구조 설계
+* 안정적인 상태 관리와 데이터 흐름 설계
+* 기술 선택의 이유를 설명할 수 있는 개발
+* AI와 새로운 기술을 실제 서비스 가치로 연결하는 개발
 
 ---
 
 ## Contact
 
-- GitHub: (https://github.com/kim-gemma)
-- Email: ayuhyun@naver.com
-- Blog / Portfolio: (https://github.com/kim-gemma/repo-root/tree/main/assets)
+GitHub
+github.com/kim-gemma
 
+Email
+[ayuhyun@naver.com](mailto:ayuhyun@naver.com)
+
+Portfolio
+https://github.com/kim-gemma/portfolio/blob/main/frontend_developer_portfolio_20260609004228.pdf
+
+Notion
+https://app.notion.com/p/Home-37a1b4452a5380b19bfde40e5c19b7db
