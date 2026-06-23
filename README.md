@@ -1,230 +1,214 @@
-# 안녕하세요, Frontend Engineer 김현능입니다 👋
+김현능
 
-## React · React Native Developer
+Enterprise SaaS & AI Product Engineer
 
-**3년 3개월간 더존비즈온에서 React와 React Native 기반 서비스를 개발한 프론트엔드 개발자입니다.**
+Frontend Engineer | React Native Engineer | React Engineer
 
-웹과 모바일 환경에서 사용자 경험을 고려한 UI 구현부터 복잡한 상태 관리, REST API 연동, 실시간 데이터 처리까지 다양한 서비스를 개발해왔습니다.
+📧 ayuhyun@naver.com
 
-특히 React Native 기반 엔터프라이즈 모바일 서비스 개발 경험을 바탕으로 Android/iOS 플랫폼 대응, Native 기능 연동, WebView-Native Bridge 설계 및 대용량 데이터 처리 기능을 구현했습니다.
+💻 GitHub
 
-또한 프론트엔드 개발 경험을 기반으로 Spring Boot 백엔드와 AI 기술 영역까지 확장하며 서비스 전반을 이해하는 Full Stack 개발자로 성장하고 있습니다.
+🌐 Portfolio
 
----
+📍 Seoul, Korea
 
-# 🔗 Links
+EXECUTIVE SUMMARY
 
-### Portfolio Website
+3년 이상 Enterprise SaaS 환경에서 협업 플랫폼, AI 생산성 서비스, 실시간 커뮤니케이션 서비스를 개발해온 프론트엔드 엔지니어입니다.
 
-https://webportfolio-ten-theta.vercel.app/
+기업 사용자의 생산성을 높이는 문서 협업, 권한 관리, 메신저, 화상회의, AI Chat, OCR/STT 기반 업무 지원 서비스를 개발했습니다.
 
-### GitHub
+단순히 화면을 구현하는 것이 아니라 사용자 업무 흐름과 비즈니스 문제를 이해하고 서비스 구조를 설계하는 데 집중해왔습니다.
 
-https://github.com/kim-gemma
+특히 Enterprise Collaboration, AI Productivity, Real-time Communication 영역에서 모바일과 웹을 아우르는 제품 개발 경험을 보유하고 있습니다.
 
-### Portfolio PDF
+DOMAIN EXPERTISE
+Enterprise Collaboration Platform
 
-https://github.com/kim-gemma/portfolio/blob/main/frontend_developer_portfolio_20260609004228.pdf
+기업 내 문서 협업 환경 구축 경험
 
-### Notion
+주요 영역
+문서 공유
+권한 관리
+조직도 기반 협업
+댓글 시스템
+업무 커뮤니케이션
+해결한 문제
 
-https://app.notion.com/p/Home-37a1b4452a5380b19bfde40e5c19b7db
+복잡한 권한 구조와 조직 체계를 서비스에 반영해야 하는 문제
 
----
+기여
+Role 기반 접근 제어 구현
+문서 공유 프로세스 개선
+댓글 공통 컴포넌트 설계
+조직도 기반 사용자 탐색 기능 개발
+AI Productivity Platform
 
-# 👨‍💻 About Me
+AI 기능을 업무 생산성 향상에 연결
 
-저는 사용자 관점에서 안정적이고 유지보수 가능한 서비스를 만드는 것을 중요하게 생각합니다.
+주요 영역
+AI Chat
+OCR
+STT
+문서 분석
+AI 회의록
+해결한 문제
 
-단순히 화면을 구현하는 데 그치지 않고,
+AI 기능이 실제 업무 도구로 활용되기 어려운 문제
 
-* 왜 이러한 구조를 선택했는지
-* 왜 해당 기술을 사용했는지
-* 어떻게 유지보수성을 높일 수 있는지
+기여
+AI 응답 스트리밍 UI 구축
+음성 입력 인터페이스 개발
+문서 분석 워크플로우 설계
+AI 회의록 조회 경험 구현
+Real-time Communication Platform
 
-설명할 수 있는 개발자를 지향합니다.
+실시간 협업 경험 구축
 
-더존비즈온에서 React와 React Native 기반 서비스를 개발하며 웹과 모바일 환경 모두를 경험했습니다.
+주요 영역
+메신저
+화상회의
+회의 초대
+상태 동기화
+해결한 문제
 
-서비스를 개발할 때는 사용자 경험, 코드 품질, 유지보수성을 함께 고려하며, 프론트엔드 개발을 넘어 백엔드와 AI 기술까지 이해하는 개발자로 성장하고 있습니다.
+협업 과정에서 발생하는 실시간 커뮤니케이션 단절
 
----
+기여
+채팅 UI 개발
+읽음 상태 처리
+회의 초대 링크 기능
+AI 회의록 연동
+Mobile Enterprise Platform
 
-# 🚀 Interested Keywords
+기업용 모바일 환경 최적화
 
-* React
-* React Native
-* TypeScript
-* JavaScript
-* Frontend Architecture
-* Component Design
-* State Management
-* REST API
-* WebSocket
-* Mobile Application
-* Spring Boot
-* AI Integration
-* LLM Application
-* Service Architecture
+주요 영역
+Android
+iOS
+WebView Bridge
+File System
+Permission
+해결한 문제
 
----
+플랫폼별 정책과 파일 처리 차이
 
-# 🛠 Tech Stack
+기여
+WebView-Native Bridge 설계
+파일 저장 구조 개선
+플랫폼 예외 처리
+모바일 운영 안정성 확보
+PROFESSIONAL EXPERIENCE
+더존비즈온
 
-## Frontend
+Frontend Engineer
 
-* React
-* React Native
-* TypeScript
-* JavaScript
-* HTML5
-* CSS3
+2022.07 ~ 2025.09
 
-## State Management
+Enterprise SaaS & Collaboration Product Development
 
-* Context API
-* Redux
-* Zustand
+기업용 협업 플랫폼 개발
 
-## Backend
+문제
 
-* Java
-* Spring Boot
-* Spring Data JPA
-* REST API
-* WebSocket
+조직 규모가 커질수록 문서 공유와 권한 관리가 복잡해짐
 
-## Database / Infra
+해결
+문서 공유 기능 구현
+권한 검증 흐름 구축
+댓글 공통 컴포넌트 설계
+조직도 기반 사용자 선택 기능 개발
+결과
 
-* MySQL
-* PostgreSQL
-* Redis
-* Docker
-* AWS EC2
-* AWS RDS
-* Git
-* GitHub
+기업 사용자의 협업 생산성 향상
 
-## AI / API
+AI Productivity Service Development
 
-* OpenAI API
-* Google Gemini API
-* TMDB API
-* Prompt Engineering
+AI 업무 지원 서비스 개발
 
----
+문제
 
-# 📱 Projects
+AI 기능이 단순 기능 제공에 그치고 업무 흐름과 분리됨
 
-## 1. Enterprise Mobile Service (OneChamber / ONEFFICE)
+해결
+AI Chat UI 개발
+OCR/STT 기능 통합
+문서 분석 기능 연동
+AI 회의록 서비스 구현
+결과
 
-### Overview
+사용자가 AI 기능을 업무 과정에 자연스럽게 활용할 수 있는 환경 구축
 
-React Native 기반 엔터프라이즈 협업 서비스 개발 및 운영
+Real-time Communication Development
 
-### 주요 업무
+실시간 협업 서비스 개발
 
-* 문서 공유 및 권한 관리 기능 개발
-* 대용량 파일 처리 및 문서 관리 기능 구현
-* WebView ↔ Native Bridge 설계 및 개발
-* Android / iOS 플랫폼 이슈 대응
-* Context API, Redux 기반 상태 관리
-* REST API 연동 및 비동기 데이터 처리
-* 모바일 사용자 경험 개선
+문제
 
-### Tech Stack
+회의와 채팅이 분리되어 사용자 경험이 단절됨
 
-React Native · TypeScript · Redux · Context API · REST API · Native Module
+해결
+메신저 기능 개발
+화상회의 기능 개발
+초대 링크 생성
+회의록 연동
+결과
 
----
+커뮤니케이션과 기록 관리가 통합된 협업 환경 구축
 
-## 2. ONE AI Mobile
+Mobile Enterprise Engineering
+문제
 
-### Overview
+Android/iOS 환경별 정책 차이
 
-AI 기반 문서 분석 및 업무 지원 모바일 서비스
+해결
+WebView-Native Bridge 개발
+파일 저장 기능 구현
+권한 처리 구조 개선
+결과
 
-### 주요 업무
+플랫폼별 안정성 향상
 
-* AI Chat UI 개발
-* 음성 인식(STT) 기능 연동
-* WebSocket 기반 실시간 응답 처리
-* AI 문서 분석 기능 구현
-* Custom Hook 기반 UI와 비즈니스 로직 분리
-* 사용자 경험 개선을 위한 인터랙션 구현
+PERSONAL PROJECT
+Pixel Garden Portfolio
 
-### Tech Stack
+Interactive Developer Portfolio
 
-React Native · WebSocket · STT · AI Integration · Custom Hook
+문제
 
----
+정적인 포트폴리오는 개발자의 문제 해결 능력을 전달하기 어려움
 
-## 3. WhatFlix
+해결
+Phaser 기반 게임형 인터페이스 개발
+AI Portfolio Assistant 구축
+실시간 방문자 모니터링 구현
+Contact Form + Discord Notification 구축
+결과
 
-### Overview
+사용자 참여형 포트폴리오 서비스 구축
 
-영화 정보와 커뮤니티 기능을 결합한 Full Stack 프로젝트
+TECH STACK
 
-### 주요 업무
+React
 
-* React 기반 사용자 인터페이스 개발
-* Spring Boot REST API 설계 및 연동
-* TMDB API 기반 영화 정보 제공
-* Gemini AI 기반 영화 추천 기능 구현
-* JWT 기반 사용자 인증
-* 리뷰, 댓글, 좋아요 기능 개발
+React Native
 
-### Tech Stack
+TypeScript
 
-React · Spring Boot · MySQL · REST API · Gemini API
+JavaScript
 
----
+Redux Toolkit
 
-# 🎯 What I Focus On
+Zustand
 
-## 사용자 경험 중심 개발
+REST API
 
-사용자가 쉽고 편리하게 사용할 수 있는 인터페이스를 고민합니다.
+WebSocket
 
-## 유지보수 가능한 구조 설계
+Spring Boot
 
-재사용 가능한 컴포넌트와 명확한 코드 구조를 중요하게 생각합니다.
+MySQL
 
-## 안정적인 상태 관리와 데이터 흐름
+Docker
 
-예측 가능한 상태 관리와 효율적인 API 통신 구조를 설계합니다.
-
-## 기술 선택의 이유를 설명할 수 있는 개발
-
-기술을 사용하는 것에 그치지 않고 선택의 근거를 설명할 수 있는 개발을 지향합니다.
-
-## AI 기술의 서비스 적용
-
-새로운 기술을 실제 사용자 가치로 연결하는 방법을 고민합니다.
-
----
-
-# 📈 Career Goal
-
-프론트엔드 개발 경험을 기반으로 백엔드 및 AI 기술 역량을 지속적으로 확장하며 서비스 전체를 이해하는 Full Stack 개발자로 성장하고 있습니다.
-
-사용자에게 실질적인 가치를 제공하는 서비스를 만들고, 기술적 의사결정의 근거를 설명할 수 있는 개발자가 되는 것이 목표입니다.
-
----
-
-# 📬 Contact
-
-Email
-[ayuhyun@naver.com](mailto:ayuhyun@naver.com)
-
-GitHub
-https://github.com/kim-gemma
-
-Portfolio Website
-https://webportfolio-ten-theta.vercel.app/
-
-Portfolio PDF
-https://github.com/kim-gemma/portfolio/blob/main/frontend_developer_portfolio_20260609004228.pdf
-
-Notion
-https://app.notion.com/p/Home-37a1b4452a5380b19bfde40e5c19b7db
+AWS
