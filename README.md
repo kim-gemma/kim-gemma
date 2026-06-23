@@ -1,214 +1,191 @@
-김현능
+# 김현능 | Enterprise SaaS & AI Product Engineer
 
-Enterprise SaaS & AI Product Engineer
+> Building products that improve collaboration, communication, and productivity.
 
-Frontend Engineer | React Native Engineer | React Engineer
+## About Me
 
-📧 ayuhyun@naver.com
+안녕하세요. 프론트엔드 엔지니어 김현능입니다.
 
-💻 GitHub
+3년 이상 Enterprise SaaS 환경에서 협업 플랫폼, AI 생산성 서비스, 실시간 커뮤니케이션 서비스를 개발해왔습니다.
 
-🌐 Portfolio
+단순히 화면을 구현하는 개발자가 아니라 사용자의 업무 흐름과 비즈니스 문제를 이해하고, 서비스가 실제 사용자에게 가치를 전달할 수 있도록 설계하는 것을 중요하게 생각합니다.
 
-📍 Seoul, Korea
+문서 협업, 권한 관리, 메신저, 화상회의, AI Chat, OCR/STT 기반 업무 지원 서비스 개발 경험을 보유하고 있으며, 모바일과 웹 환경을 아우르는 제품 개발을 수행해왔습니다.
 
-EXECUTIVE SUMMARY
+---
 
-3년 이상 Enterprise SaaS 환경에서 협업 플랫폼, AI 생산성 서비스, 실시간 커뮤니케이션 서비스를 개발해온 프론트엔드 엔지니어입니다.
+# Domain Expertise
 
-기업 사용자의 생산성을 높이는 문서 협업, 권한 관리, 메신저, 화상회의, AI Chat, OCR/STT 기반 업무 지원 서비스를 개발했습니다.
+## Enterprise Collaboration Platform
 
-단순히 화면을 구현하는 것이 아니라 사용자 업무 흐름과 비즈니스 문제를 이해하고 서비스 구조를 설계하는 데 집중해왔습니다.
+기업 사용자의 협업 생산성을 높이는 서비스 개발 경험
 
-특히 Enterprise Collaboration, AI Productivity, Real-time Communication 영역에서 모바일과 웹을 아우르는 제품 개발 경험을 보유하고 있습니다.
+### 주요 영역
 
-DOMAIN EXPERTISE
-Enterprise Collaboration Platform
+* 문서 공유
+* 권한 관리
+* 조직도 기반 협업
+* 댓글 시스템
+* 업무 커뮤니케이션
 
-기업 내 문서 협업 환경 구축 경험
+### 해결한 문제
 
-주요 영역
-문서 공유
-권한 관리
-조직도 기반 협업
-댓글 시스템
-업무 커뮤니케이션
-해결한 문제
+복잡한 조직 구조와 권한 체계를 서비스에 반영해야 하는 문제
 
-복잡한 권한 구조와 조직 체계를 서비스에 반영해야 하는 문제
+### 기여
 
-기여
-Role 기반 접근 제어 구현
-문서 공유 프로세스 개선
-댓글 공통 컴포넌트 설계
-조직도 기반 사용자 탐색 기능 개발
-AI Productivity Platform
+* Role 기반 접근 제어 구현
+* 문서 공유 프로세스 개선
+* 댓글 공통 컴포넌트 설계
+* 조직도 기반 사용자 탐색 기능 개발
 
-AI 기능을 업무 생산성 향상에 연결
+---
 
-주요 영역
-AI Chat
-OCR
-STT
-문서 분석
-AI 회의록
-해결한 문제
+## AI Productivity Platform
+
+AI를 실제 업무 생산성 향상에 연결하는 서비스 개발 경험
+
+### 주요 영역
+
+* AI Chat
+* OCR
+* STT
+* 문서 분석
+* AI 회의록
+
+### 해결한 문제
 
 AI 기능이 실제 업무 도구로 활용되기 어려운 문제
 
-기여
-AI 응답 스트리밍 UI 구축
-음성 입력 인터페이스 개발
-문서 분석 워크플로우 설계
-AI 회의록 조회 경험 구현
-Real-time Communication Platform
+### 기여
+
+* AI 응답 스트리밍 UI 구축
+* 음성 입력 인터페이스 개발
+* 문서 분석 워크플로우 설계
+* AI 회의록 조회 경험 구현
+
+---
+
+## Real-time Communication Platform
 
 실시간 협업 경험 구축
 
-주요 영역
-메신저
-화상회의
-회의 초대
-상태 동기화
-해결한 문제
+### 주요 영역
+
+* 메신저
+* 화상회의
+* 회의 초대
+* 상태 동기화
+
+### 해결한 문제
 
 협업 과정에서 발생하는 실시간 커뮤니케이션 단절
 
-기여
-채팅 UI 개발
-읽음 상태 처리
-회의 초대 링크 기능
-AI 회의록 연동
-Mobile Enterprise Platform
+### 기여
 
-기업용 모바일 환경 최적화
+* 채팅 UI 개발
+* 읽음 상태 처리
+* 회의 초대 링크 기능 개발
+* AI 회의록 연동
 
-주요 영역
-Android
-iOS
-WebView Bridge
-File System
-Permission
-해결한 문제
+---
 
-플랫폼별 정책과 파일 처리 차이
+## Mobile Enterprise Platform
 
-기여
-WebView-Native Bridge 설계
-파일 저장 구조 개선
-플랫폼 예외 처리
-모바일 운영 안정성 확보
-PROFESSIONAL EXPERIENCE
-더존비즈온
+기업용 모바일 서비스 개발 경험
 
-Frontend Engineer
+### 주요 영역
 
-2022.07 ~ 2025.09
+* Android
+* iOS
+* WebView-Native Bridge
+* File System
+* Permission
 
-Enterprise SaaS & Collaboration Product Development
+### 해결한 문제
 
-기업용 협업 플랫폼 개발
+플랫폼별 정책과 파일 처리 방식 차이
 
-문제
+### 기여
 
-조직 규모가 커질수록 문서 공유와 권한 관리가 복잡해짐
+* WebView-Native Bridge 설계
+* 파일 저장 기능 구현
+* 플랫폼 예외 처리
+* 모바일 운영 안정성 확보
 
-해결
-문서 공유 기능 구현
-권한 검증 흐름 구축
-댓글 공통 컴포넌트 설계
-조직도 기반 사용자 선택 기능 개발
-결과
+---
 
-기업 사용자의 협업 생산성 향상
+# Professional Experience
 
-AI Productivity Service Development
+## Douzone Bizon (2022.07 ~ 2025.09)
 
-AI 업무 지원 서비스 개발
+### Enterprise SaaS & Collaboration Product Development
 
-문제
+문서 공유, 권한 관리, 조직도 기반 협업 기능 개발
 
-AI 기능이 단순 기능 제공에 그치고 업무 흐름과 분리됨
+### AI Productivity Service Development
 
-해결
-AI Chat UI 개발
-OCR/STT 기능 통합
-문서 분석 기능 연동
-AI 회의록 서비스 구현
-결과
+AI Chat, OCR, STT, 문서 분석, AI 회의록 기능 개발
 
-사용자가 AI 기능을 업무 과정에 자연스럽게 활용할 수 있는 환경 구축
+### Real-time Communication Development
 
-Real-time Communication Development
+메신저, 화상회의, 회의 초대 및 협업 기능 개발
 
-실시간 협업 서비스 개발
+### Mobile Enterprise Engineering
 
-문제
+Android/iOS 플랫폼 대응, WebView-Native Bridge 및 파일 시스템 구현
 
-회의와 채팅이 분리되어 사용자 경험이 단절됨
+---
 
-해결
-메신저 기능 개발
-화상회의 기능 개발
-초대 링크 생성
-회의록 연동
-결과
+# Personal Projects
 
-커뮤니케이션과 기록 관리가 통합된 협업 환경 구축
+## Pixel Garden Portfolio
 
-Mobile Enterprise Engineering
-문제
+게임형 인터랙티브 포트폴리오
 
-Android/iOS 환경별 정책 차이
+### 주요 기능
 
-해결
-WebView-Native Bridge 개발
-파일 저장 기능 구현
-권한 처리 구조 개선
-결과
+* Phaser 기반 2D 인터랙션
+* AI Portfolio Assistant
+* 실시간 방문자 모니터링
+* Contact Form + Discord Notification
+* 모바일 최적화 UI
 
-플랫폼별 안정성 향상
+---
 
-PERSONAL PROJECT
-Pixel Garden Portfolio
+# Tech Stack
 
-Interactive Developer Portfolio
+### Frontend
 
-문제
+* React
+* React Native
+* TypeScript
+* JavaScript
 
-정적인 포트폴리오는 개발자의 문제 해결 능력을 전달하기 어려움
+### State Management
 
-해결
-Phaser 기반 게임형 인터페이스 개발
-AI Portfolio Assistant 구축
-실시간 방문자 모니터링 구현
-Contact Form + Discord Notification 구축
-결과
+* Redux Toolkit
+* Zustand
+* Context API
 
-사용자 참여형 포트폴리오 서비스 구축
+### Communication
 
-TECH STACK
+* REST API
+* WebSocket
 
-React
+### Backend & Infrastructure
 
-React Native
+* Spring Boot
+* MySQL
+* Docker
+* AWS
 
-TypeScript
+---
 
-JavaScript
+## Philosophy
 
-Redux Toolkit
+> 좋은 서비스는 단순히 기능이 많은 서비스가 아니라,
+> 사용자의 문제를 가장 자연스럽게 해결하는 서비스라고 생각합니다.
 
-Zustand
-
-REST API
-
-WebSocket
-
-Spring Boot
-
-MySQL
-
-Docker
-
-AWS
+기술보다 문제를 먼저 이해하고,
+서비스 관점에서 해결책을 설계하는 엔지니어가 되기 위해 노력하고 있습니다.
