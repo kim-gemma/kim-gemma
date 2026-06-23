@@ -1,6 +1,6 @@
 # 👋 Hi, I'm 김현능
 
-### Enterprise SaaS · AI Productivity · Frontend Engineer
+### Enterprise Collaboration · AI Productivity · Frontend Engineer
 
 > Building products that improve collaboration, communication, and productivity.
 
@@ -34,10 +34,11 @@
 
 ### Contributions
 
-* 문서 공유 및 권한 관리 기능 개발
-* 조직도 기반 협업 기능 구현
-* 댓글 공통 컴포넌트 설계
-* 기업용 업무 프로세스 모바일 확장
+* 문서 공유, 권한 관리, 오픈 링크 기능 개발
+* 조직도 기반 협업 및 사용자 초대 기능 구현
+* 댓글 시스템 공통 컴포넌트 설계 및 재사용 구조 구축
+* 전자결재 및 문서 업무 프로세스 모바일 확장
+* 기업 환경의 권한 체계와 조직 구조를 서비스에 반영
 
 ---
 
@@ -56,10 +57,11 @@ AI 기술을 실제 업무 생산성 향상으로 연결하는 서비스 개발 
 ### Contributions
 
 * AI Chat 서비스 개발
-* 실시간 응답 스트리밍 UI 구축
-* OCR/STT 기능 연동
+* OCR 기반 문서 분석 기능 개발
+* STT 기반 음성 입력 기능 개발
 * AI 회의록 조회 및 관리 기능 구현
-* 문서 분석 기반 업무 지원 기능 개발
+* 실시간 응답 스트리밍 UI 구축
+* 생성형 AI 기반 업무 지원 기능 개발
 
 ---
 
@@ -76,11 +78,12 @@ AI 기술을 실제 업무 생산성 향상으로 연결하는 서비스 개발 
 
 ### Contributions
 
-* 메신저 UI 개발
-* 읽음 상태 처리
-* 회의 초대 링크 기능 구현
-* AI 회의록 연동
+* 기업용 메신저 UI 개발
+* 조직도 기반 회의 초대 및 참여자 관리 기능 구현
+* 화상회의 입장 프로세스 개발
+* AI 회의록 서비스 연동
 * WebSocket 기반 실시간 데이터 처리
+* 모바일 환경에 최적화된 커뮤니케이션 경험 제공
 
 ---
 
