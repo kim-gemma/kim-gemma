@@ -192,7 +192,7 @@ OpenAI • Gemini
 
 * Email : [ayuhyun@naver.com](mailto:ayuhyun@naver.com)
 * GitHub : https://github.com/kim-gemma
-* Portfolio : https://webportfolio-ten-theta.vercel.app
+* Portfolio : https://pixelgarden.me/
 
 ---
 
